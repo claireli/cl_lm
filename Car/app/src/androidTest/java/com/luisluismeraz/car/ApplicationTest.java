@@ -1,4 +1,4 @@
-package com.luisluismeraz.myapplication;
+package com.luisluismeraz.car;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
